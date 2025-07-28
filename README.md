@@ -49,7 +49,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cs,net,python,nodejs,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cs,net,python,django"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -61,23 +61,19 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,aws"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Editors:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,vim"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,alpine"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
 
