@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-ML-%23FFDD67"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hay-dev2024.hay-dev2024.github.io" alt="Visitors"/>
 </p>
 
 ---
@@ -81,14 +81,14 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hay-dev2024&show_icons=true&theme=radical&hide_title=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hay-dev2024&layout=compact&theme=radical" />
 </p>
 
 <details>
   <summary>🔎 <b>More Activity</b></summary>
   <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=rogue" alt="activity graph"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hay-dev2024&theme=rogue" alt="activity graph"/>
   </p>
 </details>
 
