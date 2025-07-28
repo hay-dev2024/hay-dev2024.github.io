@@ -16,11 +16,16 @@
 
 ## 👤 About Me
 
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/179821515?v=4" width="80" style="border-radius:50%;" />
+</p>
+
+
 - 💼 **Current:** Frontend Intern @ ABC | Open Source Contributor
 - 🎓 **Education:** Computer Science @ Seoul National University
 - ⭐ **Interests:** React, Typescript, GenAI, DataViz, Startups
 - 🌏 **Location:** Seoul, South Korea
-- 🗣 **Languages:** Korean (Native), English (Professional)
+- 🗣 **Languages:** Korean, English
 
 ---
 
@@ -81,25 +86,22 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hay-dev2024&show_icons=true&theme=radical&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hay-dev2024&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hay-dev2024&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hay-dev2024&layout=compact&theme=tokyonight" />
 </p>
-
-<details>
-  <summary>🔎 <b>More Activity</b></summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hay-dev2024&theme=rogue" alt="activity graph"/>
-  </p>
-</details>
 
 ---
 
 ## 📫 Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub Badge](https://img.shields.io/badge/-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hay-dev2024)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-%2312100E?style=flat-square&logo=hashnode&logoColor=white)](https://blog.yourdomain.com)
+
+
+---
+
 
 
 
