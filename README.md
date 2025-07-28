@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hayden’s Portfolio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Hi+there+%F0%9F%91%8B;I'm+a+passionate+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hi%2C+there+%F0%9F%91%8B;I'm+a+passionate+Developer;I+%F0%9F%92%97+Linux" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## 👤 About Me
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/179821515?v=4" width="80" style="border-radius:50%;" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/179821515?v=4" width="150" style="border-radius:50%;" />
 </p>
 
-- 💼 **Current:** 청년취업사관학교 용산캠퍼스 학생
-- ⭐ **Interests:** Python, Kotlin, Linux
+- 💼 **Current:** 청년취업사관학교 용산캠퍼스 AIoT 과정 학생
+- ⭐ **Interests:** Python, Kotlin, C#, Linux
 - 🌏 **Location:** Seoul, South Korea
 - 🗣 **Languages:** Korean, English
 
