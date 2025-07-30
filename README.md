@@ -78,9 +78,10 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hay-dev2024&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hay-dev2024&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hay-dev2024&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hay-dev2024&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 
 ---
 
